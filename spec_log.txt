@@ -1,4 +1,5 @@
-
+Name: Ruihong Wang
+UIN: 327005488
 Ruby intro part 1
   #sum
     should be defined
